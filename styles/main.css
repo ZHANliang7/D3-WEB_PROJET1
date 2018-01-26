@@ -22,15 +22,15 @@ header{
 .header-content h1 {
   font-size: 3em;
   font-family: serif;
-  color: rgb(255, 255, 255);
+  color: rgb(255,182,193);
 }
 .header-content h2 {
   font-size: 2em;
   font-family: sans-serif;
-  color: rgb(255, 255, 255);
+  color: rgb(255,182,193);
 }
 .header-content p{
-  color: rgb(255, 255, 255);
+  color: rgb(255,182,193);
 }
 
 html {
@@ -82,7 +82,7 @@ p {
 
 .comp-section-content {
   background-color: #fff;
-  color: #000;
+  color: #FFB6C1;
   display: flex;
   justify-content: space-around;
 }
